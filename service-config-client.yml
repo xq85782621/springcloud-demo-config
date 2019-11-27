@@ -5,7 +5,7 @@ server:
   
 spring:
   application:
-    name: service-config-test 
+    name: service-config-client 
 
 
 introduce: main
