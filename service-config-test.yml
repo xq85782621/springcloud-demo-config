@@ -8,5 +8,5 @@ spring:
     name: service-config-test 
 
 
-decs: 瞎写的,说明这是主配置文件的内容
+introduce: main
    
